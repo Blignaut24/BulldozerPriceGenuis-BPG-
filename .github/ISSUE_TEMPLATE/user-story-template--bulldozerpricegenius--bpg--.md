@@ -1,5 +1,5 @@
 ---
-name: 'User Story: '
+name: 'User Story Template: BulldozerPriceGenius (BPG) '
 about: The user story template tracks project features by documenting who needs what
   and why, keeping BulldozerPriceGenius focused on user value.
 title: ''
