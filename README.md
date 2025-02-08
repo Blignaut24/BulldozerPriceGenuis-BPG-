@@ -1,8 +1,8 @@
 # BulldozerPriceGenuis (BPG)
 
-![bulldozer image](static/images/bulldozer_ai-min.webp)
+#### "**BulldozerPriceGenuis (BPG)**: *Know Your Equipment's Worth, Make Smarter Auction Decisions* 
 
-#### "**BulldozerPriceGenuis (BPG)**: *Know Your Equipment's Worth, Make Smarter Auction Decisions* |
+<img src="static/images/bulldozer_ai-min.webp" width="40%" style="display: block; margin: 0 auto;">
 
 In the complex world of heavy equipment auctions, construction companies and dealers face a persistent challenge: accurately determining the value of their bulldozers. The uncertainty can lead to missed opportunities and financial losses.
 
