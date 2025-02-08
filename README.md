@@ -14,7 +14,7 @@ In collaboration with Fast Iron, we're revolutionizing the industry by creating 
 - Understand your equipment's true market value
 - Optimize your auction strategy for maximum returns
 
-##### *"Stop leaving money on the table. Let BulldozerPriceGenius transform your uncertain pricing decisions into data-driven success stories."*
+#### *"Stop leaving money on the table. Let BulldozerPriceGenius transform your uncertain pricing decisions into data-driven success stories."*
 
 ## Table of Content
 - [BulldozerPriceGenuis (BPG)](#bulldozerpricegenuis-bpg)
